@@ -1,0 +1,39 @@
+{
+  "layer_3": {
+    "accuracy_mean": 0.9857142857142858,
+    "accuracy_std": 0.02857142857142856,
+    "auroc_mean": 1.0,
+    "auroc_std": 0.0
+  },
+  "layer_6": {
+    "accuracy_mean": 1.0,
+    "accuracy_std": 0.0,
+    "auroc_mean": 1.0,
+    "auroc_std": 0.0
+  },
+  "layer_9": {
+    "accuracy_mean": 1.0,
+    "accuracy_std": 0.0,
+    "auroc_mean": 1.0,
+    "auroc_std": 0.0
+  },
+  "layer_12": {
+    "accuracy_mean": 1.0,
+    "accuracy_std": 0.0,
+    "auroc_mean": 1.0,
+    "auroc_std": 0.0
+  },
+  "concat_layers": {
+    "accuracy_mean": 1.0,
+    "accuracy_std": 0.0,
+    "auroc_mean": 1.0,
+    "auroc_std": 0.0,
+    "layers": [
+      3,
+      6,
+      9,
+      12
+    ],
+    "n": 72
+  }
+}

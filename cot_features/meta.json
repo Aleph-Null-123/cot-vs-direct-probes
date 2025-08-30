@@ -1,0 +1,298 @@
+{
+  "layers": [
+    3,
+    6,
+    9,
+    12
+  ],
+  "examples": [
+    {
+      "mode": "direct",
+      "question": "What is the capital of France?"
+    },
+    {
+      "mode": "cot",
+      "question": "What is the capital of France?"
+    },
+    {
+      "mode": "direct",
+      "question": "What is the capital of France?"
+    },
+    {
+      "mode": "cot",
+      "question": "What is the capital of France?"
+    },
+    {
+      "mode": "direct",
+      "question": "What is the capital of France?"
+    },
+    {
+      "mode": "cot",
+      "question": "What is the capital of France?"
+    },
+    {
+      "mode": "direct",
+      "question": "What is 12 + 35?"
+    },
+    {
+      "mode": "cot",
+      "question": "What is 12 + 35?"
+    },
+    {
+      "mode": "direct",
+      "question": "What is 12 + 35?"
+    },
+    {
+      "mode": "cot",
+      "question": "What is 12 + 35?"
+    },
+    {
+      "mode": "direct",
+      "question": "What is 12 + 35?"
+    },
+    {
+      "mode": "cot",
+      "question": "What is 12 + 35?"
+    },
+    {
+      "mode": "direct",
+      "question": "Who wrote the play Hamlet?"
+    },
+    {
+      "mode": "cot",
+      "question": "Who wrote the play Hamlet?"
+    },
+    {
+      "mode": "direct",
+      "question": "Who wrote the play Hamlet?"
+    },
+    {
+      "mode": "cot",
+      "question": "Who wrote the play Hamlet?"
+    },
+    {
+      "mode": "direct",
+      "question": "Who wrote the play Hamlet?"
+    },
+    {
+      "mode": "cot",
+      "question": "Who wrote the play Hamlet?"
+    },
+    {
+      "mode": "direct",
+      "question": "What is the tallest mountain in the world?"
+    },
+    {
+      "mode": "cot",
+      "question": "What is the tallest mountain in the world?"
+    },
+    {
+      "mode": "direct",
+      "question": "What is the tallest mountain in the world?"
+    },
+    {
+      "mode": "cot",
+      "question": "What is the tallest mountain in the world?"
+    },
+    {
+      "mode": "direct",
+      "question": "What is the tallest mountain in the world?"
+    },
+    {
+      "mode": "cot",
+      "question": "What is the tallest mountain in the world?"
+    },
+    {
+      "mode": "direct",
+      "question": "Why do we see phases of the Moon?"
+    },
+    {
+      "mode": "cot",
+      "question": "Why do we see phases of the Moon?"
+    },
+    {
+      "mode": "direct",
+      "question": "Why do we see phases of the Moon?"
+    },
+    {
+      "mode": "cot",
+      "question": "Why do we see phases of the Moon?"
+    },
+    {
+      "mode": "direct",
+      "question": "Why do we see phases of the Moon?"
+    },
+    {
+      "mode": "cot",
+      "question": "Why do we see phases of the Moon?"
+    },
+    {
+      "mode": "direct",
+      "question": "Is it possible to have negative absolute temperature?"
+    },
+    {
+      "mode": "cot",
+      "question": "Is it possible to have negative absolute temperature?"
+    },
+    {
+      "mode": "direct",
+      "question": "Is it possible to have negative absolute temperature?"
+    },
+    {
+      "mode": "cot",
+      "question": "Is it possible to have negative absolute temperature?"
+    },
+    {
+      "mode": "direct",
+      "question": "Is it possible to have negative absolute temperature?"
+    },
+    {
+      "mode": "cot",
+      "question": "Is it possible to have negative absolute temperature?"
+    },
+    {
+      "mode": "direct",
+      "question": "If a train goes 60 mph for 2 hours, how far does it travel?"
+    },
+    {
+      "mode": "cot",
+      "question": "If a train goes 60 mph for 2 hours, how far does it travel?"
+    },
+    {
+      "mode": "direct",
+      "question": "If a train goes 60 mph for 2 hours, how far does it travel?"
+    },
+    {
+      "mode": "cot",
+      "question": "If a train goes 60 mph for 2 hours, how far does it travel?"
+    },
+    {
+      "mode": "direct",
+      "question": "If a train goes 60 mph for 2 hours, how far does it travel?"
+    },
+    {
+      "mode": "cot",
+      "question": "If a train goes 60 mph for 2 hours, how far does it travel?"
+    },
+    {
+      "mode": "direct",
+      "question": "Who discovered penicillin?"
+    },
+    {
+      "mode": "cot",
+      "question": "Who discovered penicillin?"
+    },
+    {
+      "mode": "direct",
+      "question": "Who discovered penicillin?"
+    },
+    {
+      "mode": "cot",
+      "question": "Who discovered penicillin?"
+    },
+    {
+      "mode": "direct",
+      "question": "Who discovered penicillin?"
+    },
+    {
+      "mode": "cot",
+      "question": "Who discovered penicillin?"
+    },
+    {
+      "mode": "direct",
+      "question": "Why is the sky blue?"
+    },
+    {
+      "mode": "cot",
+      "question": "Why is the sky blue?"
+    },
+    {
+      "mode": "direct",
+      "question": "Why is the sky blue?"
+    },
+    {
+      "mode": "cot",
+      "question": "Why is the sky blue?"
+    },
+    {
+      "mode": "direct",
+      "question": "Why is the sky blue?"
+    },
+    {
+      "mode": "cot",
+      "question": "Why is the sky blue?"
+    },
+    {
+      "mode": "direct",
+      "question": "How many days are in a leap year?"
+    },
+    {
+      "mode": "cot",
+      "question": "How many days are in a leap year?"
+    },
+    {
+      "mode": "direct",
+      "question": "How many days are in a leap year?"
+    },
+    {
+      "mode": "cot",
+      "question": "How many days are in a leap year?"
+    },
+    {
+      "mode": "direct",
+      "question": "How many days are in a leap year?"
+    },
+    {
+      "mode": "cot",
+      "question": "How many days are in a leap year?"
+    },
+    {
+      "mode": "direct",
+      "question": "Which planet is known as the Red Planet?"
+    },
+    {
+      "mode": "cot",
+      "question": "Which planet is known as the Red Planet?"
+    },
+    {
+      "mode": "direct",
+      "question": "Which planet is known as the Red Planet?"
+    },
+    {
+      "mode": "cot",
+      "question": "Which planet is known as the Red Planet?"
+    },
+    {
+      "mode": "direct",
+      "question": "Which planet is known as the Red Planet?"
+    },
+    {
+      "mode": "cot",
+      "question": "Which planet is known as the Red Planet?"
+    },
+    {
+      "mode": "direct",
+      "question": "What gas do plants absorb during photosynthesis?"
+    },
+    {
+      "mode": "cot",
+      "question": "What gas do plants absorb during photosynthesis?"
+    },
+    {
+      "mode": "direct",
+      "question": "What gas do plants absorb during photosynthesis?"
+    },
+    {
+      "mode": "cot",
+      "question": "What gas do plants absorb during photosynthesis?"
+    },
+    {
+      "mode": "direct",
+      "question": "What gas do plants absorb during photosynthesis?"
+    },
+    {
+      "mode": "cot",
+      "question": "What gas do plants absorb during photosynthesis?"
+    }
+  ]
+}
